@@ -1,0 +1,34 @@
+Java Code Challenge  -  13.01.2024
+------------------------------------------------------------------------------------------------------------------------
+
+1- Bir sayının Mükemmel bir sayı olup olmadığını bulan metodu yazin.
+
+Mükemmel sayı, sayılar teorisinde, kendisi hariç pozitif tam bölenlerinin toplamı kendisine eşit olan sayıdir. Diğer bir
+ifadeyle, bir mükemmel sayı, bütün pozitif tam bölenlerinin toplamının yarısına eşittir.
+
+6=> 1 2 3 Mükemmel sayıdır.
+
+------------------------------------------------------------------------------------------------------------------------
+
+2- Bir sayıyı ters çeviren java kodunu yazin.
+
+Input =   45987
+Output = 78954
+
+------------------------------------------------------------------------------------------------------------------------
+
+3- Java ile kullanıcınin girdiği değerin palindrom sayı olup olmadığını bulan java kodunu yazınız.
+
+Palindromik sayı, sağdan sola okunduğunda da aynı şekilde okunan sayılardır. Yani bir sayının rakamları, ters sırayla
+yazıldığında aynı sayı oluşuyorsa, o sayı palindromiktir.
+Örneğin, 121, 1221, 12321 gibi sayılar palindromiktir. Ancak, 123, 1234 gibi sayılar palindromik değillerdir.
+
+------------------------------------------------------------------------------------------------------------------------
+
+4- Kullanicidan alinan String bir degerdeki Unique olan karakterleri döndürebilen praogrami yaziniz.
+
+   Ex:
+   input :  AABCCD
+   Output:  BD
+
+------------------------------------------------------------------------------------------------------------------------
