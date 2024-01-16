@@ -11,7 +11,7 @@ public class Q1 {
     }
 
     public static void validatePin(String str) {
-        String str2="";
+
         for (int i = 0; i < str.length(); i++) {
             if (Character.isDigit(str.charAt(i))) {
 
