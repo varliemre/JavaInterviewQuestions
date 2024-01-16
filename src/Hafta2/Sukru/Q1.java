@@ -7,7 +7,6 @@ public class Q1 {
 
         validatePin(str);
 
-
     }
 
     public static void validatePin(String str) {
@@ -15,16 +14,15 @@ public class Q1 {
         String str2 = "";
         for (int i = 0; i < str.length(); i++) {
             if (Character.isLetter(str.charAt(i))) {
-                str2+=str.charAt(i);
+                str2 += str.charAt(i);
             }
         }
         System.out.println("str2 = " + str2);
-        if (str2.isEmpty()&&str.length()==4|| str.length()==6 ){
+        if (str2.isEmpty() && str.length() == 4 || str.length() == 6) {
             System.out.println("Girdiginiz pin gecerlidir");
-        }
-        else System.out.println("Girdiginiz pin gecerli degldir");
-        }
+        } else System.out.println("Girdiginiz pin gecerli degldir");
     }
+}
 
 
 
