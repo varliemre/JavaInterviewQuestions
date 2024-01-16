@@ -20,6 +20,7 @@ public class Q1 {
         if (str.length()==4||str.length()==6){
             System.out.println("Girdiginiz pin gecerlidir");
 
+
         }else System.out.println("Girdiginiz pin gecerli degldir");
     }}
 
