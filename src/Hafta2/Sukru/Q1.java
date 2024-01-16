@@ -15,7 +15,7 @@ public class Q1 {
         String str2 = "";
         for (int i = 0; i < str.length(); i++) {
             if (Character.isLetter(str.charAt(i))) {
-                str2 += str.charAt(i);
+                str2+=str.charAt(i);
             }
         }
         System.out.println("str2 = " + str2);
