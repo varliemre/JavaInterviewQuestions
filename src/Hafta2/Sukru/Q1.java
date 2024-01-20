@@ -2,7 +2,7 @@ package Hafta2.Sukru;
 
 public class Q1 {
     public static void main(String[] args) {
-        String str = "12354";
+        String str = "123545a";
 
 
         validatePin(str);
@@ -18,8 +18,8 @@ public class Q1 {
 
             }
         }
-        System.out.println("str2 = " + str2);
-        if (str2.isEmpty() && str.length() == 4 || str.length() == 6) {
+
+        if (str.isEmpty() && str.length() == 4 || str.length() == 6) {
             System.out.println("Girdiginiz pin gecerlidir");
         } else System.out.println("Girdiginiz pin gecerli degldir");
     }

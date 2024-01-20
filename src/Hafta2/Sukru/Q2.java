@@ -31,7 +31,6 @@ public class Q2 {
         System.out.println("---------------------------------------------------------------");
         reverse(str3);
 
-
     }
 
     public static void reverse(String str) {
@@ -53,7 +52,6 @@ public class Q2 {
                 System.out.println("index" + index + "=" + str.charAt(j));
                 list.add(index, str.charAt(j) + "");
             }
-
         }
         System.out.println("list = " + list);
         System.out.println();
