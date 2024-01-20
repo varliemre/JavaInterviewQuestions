@@ -24,7 +24,6 @@ public class Q3 {
         for (String eleman:array){
             if (eleman.toLowerCase().contains(str2)){
                 counter++;
-
             }
             if (counter==1){
             System.out.println("eleman = " + eleman+".");
