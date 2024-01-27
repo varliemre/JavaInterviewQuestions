@@ -1,3 +1,4 @@
+-----------------------------------------------------------------------
 Q1- Extract a Word From a Sentence
 
    Implement a method removeWord() that takes two string parameters:
@@ -12,7 +13,7 @@ Q1- Extract a Word From a Sentence
    removeWord("Bob has a kid", "kid") ➞ "Bob has a"
    Notes
    Use the Resources section if you need help.
------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 Q2- Digits Battle!
 
     Starting from the left side of an integer, adjacent digits pair up in "battle" and the larger digit wins. If two digits are the same,
@@ -37,7 +38,7 @@ Q2- Digits Battle!
     Notes:
     There are no winners in a battle with equal digits (neither should be printed).
     If the length of the number is odd, the lone digit should be printed at the end of the number.
------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 Q3- Unique Character Mapping
 
     Write a function that returns a character mapping from a word.
@@ -55,4 +56,4 @@ Q3- Unique Character Mapping
     Sayacınıza 0'dan başlayın ve her yeni karakterle karşılaştığınızda 1 artırın.
     Aynı karakterler aynı sayıyı paylaşmalıdır.
 
-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
