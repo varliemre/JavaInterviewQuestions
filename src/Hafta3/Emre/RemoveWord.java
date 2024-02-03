@@ -2,6 +2,8 @@ package Hafta3.Emre;
 
 public class RemoveWord {
     public static void main(String[] args) {
+
+
         System.out.println(removeWord("Bob has a kid", "Bob"));
     }
 

@@ -23,6 +23,7 @@ public class Q3 {
     */
    public static void main(String[] args) {
       String str1="abacbd";
+
       int [] array=new int[str1.length()];
       String chars=new String();
       for (int i = 0; i < str1.length(); i++) {
